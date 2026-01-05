@@ -1,5 +1,10 @@
-# CAFA-6-Protein-Function-Prediction
+# CAFA 6 Protein Function Prediction!
 -------
+⫘⫘⫘⫘ List of links ⫘⫘⫘⫘⫘
+https://github.com/archipelagoing/CAFA6
+https://www.kaggle.com/competitions/cafa-6-protein-function-prediction/overview
+https://docs.google.com/document/d/1YESm4etY8CQP0dcMr1YemjlGHE2pXzyKKEXZ6QC2_VE/edit?usp=sharing
+
 ## **Executive Summary**
 
 This solution employs a **hierarchical multilabel classification** framework to predict protein functions from amino acid sequences. The model integrates learned sequence representations with engineered biological features to generate accurate **Gene Ontology (GO) annotations** across **Molecular Function, Biological Process,** and **Cellular Component** categories. Performance was evaluated on a held-out validation set using CAFA-appropriate metrics.
